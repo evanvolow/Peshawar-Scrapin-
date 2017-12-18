@@ -78,14 +78,17 @@ for link in linkList:
 			if category is "p":
 				nameSplit=linkText.split(" ")
 				surname=nameSplit[len(nameSplit)-1]
-				people[linkText]=surname
+				people[linkText]={"surname":surname}
+				relEntry={"surname":surname}
 			if category is "o":
-				orgs[linkText]=linkText
+				orgs[linkText]={"primaryname":linkText}
+				relEntry={"primaryname":linkText}
 			else:
-				other[linkText]=linkText
+				other[linkText]={"primaryname":linkText}
+				relEntry={"primaryname":linkText}
 			relevent=input('Add to relevence testing terms? y/n---> ')
 			if relevent is "y":
-				relevence[linkText]=linkText
+				relevence[linkText]=relEntry
 		elif inputYN is "n":
 			pass
 		elif inputYN is "quit":

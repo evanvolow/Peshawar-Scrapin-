@@ -1,1 +1,187 @@
-{"Islamic State of Afghanistan": "Islamic State of Afghanistan", "University of Kabul": "University of Kabul", "Jamiat-e Islami": "Jamiat-e Islami", "Northern Alliance": "Northern Alliance", "United Islamic Front for the Salvation of Afghanistan": "United Islamic Front for the Salvation of Afghanistan", "Taliban": "Taliban", "Polytechnical University of Kabul": "Polytechnical University of Kabul", "mujahideen": "mujahideen", "al-Qaeda": "al-Qaeda", "Inter-Services Intelligence": "Inter-Services Intelligence", "North Atlantic Treaty Organisation": "North Atlantic Treaty Organisation", "Kabul University": "Kabul University", "People's Democratic Party of Afghanistan": "People's Democratic Party of Afghanistan", "Republic of Afghanistan": "Republic of Afghanistan", "Muslim Youth": "Muslim Youth", "Hezb-i Islami": "Hezb-i Islami", "Shura-e Nazar": "Shura-e Nazar", "Khalq": "Khalqi", "Parcham": "Parchami", "Jowzjan": "Jowzjan", "Islamic Republic of Afghanistan": "Islamic Republic of Afghanistan", "Hezb-e Islami": "Hezb-e Islami", "Hezb-i Wahdat": "Hezb-i Wahdat", "Ittihad-i Islami": "Ittihad-i Islami", "Junbish-i Milli": "Junbish-i Milli", "United Nations": "United Nations", "Hezb-e Wahdat": "Hezb-e Wahdat", "Ittehad-i Islami": "Ittehad-i Islami", "Jamiat Ulema-e-Islam": "Jamiat Ulema-e-Islam", "Islamic Emirate of Afghanistan": "Islamic Emirate of Afghanistan", "Al Qaeda": "Al Qaeda", "Defense Intelligence Agency": "Defense Intelligence Agency", "Al-Qaeda": "Al-Qaeda", "National Front of Afghanistan": "National Front of Afghanistan", "National Coalition of Afghanistan": "National Coalition of Afghanistan", "Soviet Union": "Soviet Union", "Democratic Republic of Afghanistan": "Democratic Republic of Afghanistan", "Islamic Union for the Liberation of Afghanistan": "Islamic Union for the Liberation of Afghanistan", "Organisation of the Islamic Conference": "Organisation of the Islamic Conference", "Khalis faction": "Khalis faction", "Hezbi Islami": "Hezbi Islami", "Jamiat-i-Islami": "Jamiat-i-Islami", "National Islamic Front": "National Islamic Front", "Jabha-i-Najat-i-Milli": "Jabha-i-Najat-i-Milli", "Tehran Eight": "Tehran Eight", "Harakat-i-Inqilab-i-Islami": "Harakat-i-Inqilab-i-Islami", "40th Army": "40th Army", "Islamic Unity of Afghanistan Mujahideen": "Islamic Unity of Afghanistan Mujahideen", "Hezb-e Islami Gulbuddin": "Hezb-e Islami Gulbuddin", "Maktab al-Khadamat": "Maktab al-Khadamat", "Hezb-e Islami Khalis": "Hezb-e Islami Khalis", "Islamic Dawah Organisation of Afghanistan": "Islamic Dawah Organisation of Afghanistan", "Islamic and National Revolution Movement of Afghanistan": "Islamic and National Revolution Movement of Afghanistan", "Afghanistan National Liberation Front": "Afghanistan National Liberation Front", "National Islamic Front of Afghanistan": "National Islamic Front of Afghanistan", "Islamic Movement of Afghanistan": "Islamic Movement of Afghanistan", "Hezbollah": "Hezbollah", "Al-Nasr": "Al-Nasr", "Corpus of Islamic Revolution Guardians of Afghanistan": "Corpus of Islamic Revolution Guardians of Afghanistan", "Revolutionary Council of Islamic Unity of Afghanistan": "Revolutionary Council of Islamic Unity of Afghanistan", "Islamic Revolution Movement": "Islamic Revolution Movement", "Union of Islamic Fighters": "Union of Islamic Fighters", "Raad Party": "Raad Party", "Afghanistan Liberation Organization": "Afghanistan Liberation Organization", "Liberation Organization of the People of Afghanistan": "Liberation Organization of the People of Afghanistan", "Afghanistan Mujahedin Freedom Fighters Front": "Afghanistan Mujahedin Freedom Fighters Front", "Organisation of Islamic Cooperation": "Organisation of Islamic Cooperation", "Setami Milli": "Setami Milli", "ISI": "ISI", "Jamiat Islami": "Jamiat Islami", "Settam-e-Melli": "Settam-e-Melli", "KGB": "KGB", "Radio Kabul": "Radio Kabul", "Politburo": "Politburo", "Afghan National Army": "Afghan National Army", "Central Committee of the Communist Party of the Soviet Union": "Central Committee of the Communist Party of the Soviet Union", "Kremlin": "Kremlin", "Alpha Group": "Alpha Group", "KHAD": "KHAD", "Sarandoy": "Sarandoy", "Seven Party Mujahideen Alliance": "Seven Party Mujahideen Alliance", "MI6": "MI6", "Directorate for Inter-Services Intelligence": "Directorate for Inter-Services Intelligence", "Special Service Group": "Special Service Group", "MVD": "MVD", "New York Times": "New York Times", "The New York Times": "The New York Times", "National Geographic Magazine": "National Geographic Magazine", "Sipah-e-Sahaba Pakistan": "Sipah-e-Sahaba Pakistan", "Muslim Brotherhood": "Muslim Brotherhood", "Hizb-e-Islami": "Hizb-e-Islami", "Human Rights Watch": "Human Rights Watch", "al Qaeda": "al Qaeda", "Duma": "Duma", "Hezb-e-Islami Gulbuddin": "Hezb-e-Islami Gulbuddin", "Hezb-e-Islami Khalid Farooqi": "Hezb-e-Islami Khalid Farooqi", "Ikhwan": "Ikhwan"}
+{
+    "Kingdom of Afghanistan": {"primaryname": "Kingdom of Afghanistan"},
+    "Islamic State of Afghanistan": {"primaryname": "Islamic State of Afghanistan"},
+    "University of Kabul": {"primaryname": "University of Kabul"},
+    "Jamiat-e Islami": {
+        "primaryname": "Jamiat-e Islami",
+        "altname1": "Jamiat"
+    },
+    "Northern Alliance": {"primaryname": "Northern Alliance"},
+    "Afghan Ministry of Defense": {"primaryname": "Afghan Ministry of Defense"},
+    "United Islamic Front for the Salvation of Afghanistan": {"primaryname": "United Islamic Front for the Salvation of Afghanistan"},
+    "Taliban": {"primaryname": "Taliban"},
+    "Polytechnical University of Kabul": {"primaryname": "Polytechnical University of Kabul"},
+    "mujahideen": {
+        "primaryname": "mujahideen",
+        "altname1": "mujahedin",
+        "altname2": "mujahedeen",
+        "altname3": "mujahidin"
+    },
+    "European Parliament": {"primaryname": "European Parliament"},
+    "al-Qaeda": {"primaryname": "al-Qaeda"},
+    "Inter-Services Intelligence": {
+        "primaryname": "Inter-Services Intelligence",
+        "altname1": "ISI",
+        "altname2": "I.S.I",
+        "altname3": "Pakistani intelligence"
+    },
+    "North Atlantic Treaty Organisation": {
+        "primaryname": "North Atlantic Treaty Organisation",
+        "altname1": "NATO",
+        "altname2": "N.A.T.O"
+    },
+    "Kabul University": {"primaryname": "Kabul University"},
+    "People's Democratic Party of Afghanistan": {
+        "primaryname": "People's Democratic Party of Afghanistan",
+        "altname1": "PDPA",
+        "subTerm1": "Khalq",
+        "subterm2": "Khalqis",
+        "subterm3": "Khalqi",
+        "subterm4": "Parcham",
+        "subterm5": "Parchami",
+        "subterm6": "Parchamis"
+    },
+    "Muslim Youth": {"primaryname": "Muslim Youth"},
+    "Hezb-i Islami": {"primaryname": "Hezb-i Islami"},
+    "Shura-e Nazar": {"primaryname": "Shura-e Nazar"},
+    "Central Intelligence Agency": {"primaryname": "Central Intelligence Agency"},
+    "State Department": {"primaryname": "State Department"},
+    "The Heritage Foundation": {"primaryname": "The Heritage Foundation"},
+    "Khalq": {
+        "primaryname": "Khalq",
+        "subterm2": "Khalqis",
+        "subterm3": "Khalqi"
+    },
+    "Parcham": {
+        "primaryname": "Parcham",
+        "subterm5": "Parchami",
+        "subterm6": "Parchamis"
+    },
+    "Islamic Republic of Afghanistan": {"primaryname": "Islamic Republic of Afghanistan"},
+    "Hezb-e Islami": {
+        "primaryname": "Hezb-e Islami",
+        "altname1": "Hezbi Islami",
+        "altname2": "Hizb-e Islami",
+        "altname3": "Hizbi Islami"
+    },
+    "Hezb-i Wahdat (Mazari)": {
+        "primaryname": "Hezb-i Wahdat",
+        "altname1": "Islamic Unity Party of Afghanistan",
+        "altname2": "Wahdat"
+    },
+    "Human Rights Watch": {"primaryname": "Human Rights Watch"},
+    "Junbish-i Milli": {"primaryname": "Junbish-i Milli"},
+    "United Nations": {"primaryname": "United Nations"},
+    "Hezb-e Wahdat": {"primaryname": "Hezb-e Wahdat"},
+    "Ittehad-i Islami (Sayyaf)": {
+        "primaryname": "Ittehad-i Islami",
+        "altname1": "Islamic Union for the Liberation of Afghanistan",
+        "altname2": "Ittihad"
+    },
+    "United States Institute of Peace": {"primaryname": "United States Institute of Peace"},
+    "Jamiat Ulema-e-Islam": {"primaryname": "Jamiat Ulema-e-Islam"},
+    "Amnesty International": {"primaryname": "Amnesty International"},
+    "Islamic Emirate of Afghanistan": {"primaryname": "Islamic Emirate of Afghanistan"},
+    "Al Qaeda": {
+        "primaryname": "Al Qaeda",
+        "altname1": "al-Qaeda"
+    },
+    "Defense Intelligence Agency": {
+        "primaryname": "Defense Intelligence Agency",
+        "altname1": "DIA"
+    },
+    "Federal Bureau of Investigation": {
+        "primaryname": "Federal Bureau of Investigation",
+        "altname1": "FBI"
+    },
+    "National Front of Afghanistan": {"primaryname": "National Front of Afghanistan"},
+    "National Coalition of Afghanistan": {"primaryname": "National Coalition of Afghanistan"},
+    "Soviet Union": {"primaryname": "Soviet Union"},
+    "Democratic Republic of Afghanistan": {"primaryname": "Democratic Republic of Afghanistan"},
+    "Islamic Union for the Liberation of Afghanistan": {"primaryname": "Islamic Union for the Liberation of Afghanistan"},
+    "Organisation of the Islamic Conference": {"primaryname": "Organisation of the Islamic Conference"},
+    "Khalis faction": {
+        "primaryname": "Khalis faction",
+        "altname1": "Hezb-e Islami Khalis",
+        "altname2": "Hezbi Islami Khalis",
+        "altname3": "Hizb-e Islami Khalis"
+    },
+    "National Islamic Front (Gailani)": {
+        "primaryname": "National Islamic Front",
+        "altname1": "Mahaz-e Melli",
+        "altname2": "Mahaz-i-Milli"
+    },
+    "Jabha-i-Najat-i-Milli": {"primaryname": "Jabha-i-Najat-i-Milli"},
+    "Harakat-i-Inqilab-i-Islami (Mohammadi)": {
+        "primaryname": "Harakat-i-Inqilab-i-Islami",
+        "altname1": "Islamic and National Revolution Movement of Afghanistan"
+    },
+    "Tehran Eight": {"primaryname": "Tehran Eight"},
+    "Safi tribe": {"primaryname": "Safi tribe"},
+    "Jamiat Ahle Hadith": {"primaryname": "Jamiat Ahle Hadith"},
+    "40th Army": {"primaryname": "40th Army"},
+    "Islamic Unity of Afghanistan Mujahideen": {
+        "primaryname": "Islamic Unity of Afghanistan Mujahideen",
+        "altname1": "Peshawar Seven"
+    },
+    "Hezb-e Islami Gulbuddin": {"primaryname": "Hezb-e Islami Gulbuddin"},
+    "Maktab al-Khadamat": {
+        "primaryname": "Maktab al-Khadamat",
+        "altname1": "Makhtab al-Khidamat"
+    },
+    "Hezb-e Islami Khalis": {"primaryname": "Hezb-e Islami Khalis"},
+    "Islamic Dawah Organisation of Afghanistan": {"primaryname": "Islamic Dawah Organisation of Afghanistan"},
+    "Islamic and National Revolution Movement of Afghanistan": {"primaryname": "Islamic and National Revolution Movement of Afghanistan"},
+    "National Islamic Front of Afghanistan": {"primaryname": "National Islamic Front of Afghanistan"},
+    "Islamic Movement of Afghanistan": {"primaryname": "Islamic Movement of Afghanistan"},
+    "Hezbollah": {"primaryname": "Hezbollah"},
+    "Al-Nasr": {"primaryname": "Al-Nasr", "altname1": "Nasr Party"},
+    "Corpus of Islamic Revolution Guardians of Afghanistan": {"primaryname": "Corpus of Islamic Revolution Guardians of Afghanistan"},
+    "Revolutionary Council of Islamic Unity of Afghanistan": {"primaryname": "Revolutionary Council of Islamic Unity of Afghanistan"},
+    "Islamic Revolution Movement": {"primaryname": "Islamic Revolution Movement"},
+    "Union of Islamic Fighters": {"primaryname": "Union of Islamic Fighters"},
+    "Raad Party": {"primaryname": "Raad Party"},
+    "Afghanistan Liberation Organization": {"primaryname": "Afghanistan Liberation Organization"},
+    "Liberation Organization of the People of Afghanistan": {"primaryname": "Liberation Organization of the People of Afghanistan"},
+    "Afghanistan Mujahedin Freedom Fighters Front": {"primaryname": "Afghanistan Mujahedin Freedom Fighters Front"},
+    "Setami Milli": {"primaryname": "Setami Milli"},
+    "Warsaw Pact": {"primaryname": "Warsaw Pact"},
+    "Afghan army": {"primaryname": "Afghan army"},
+    "Non-Aligned Movement": {"primaryname": "Non-Aligned Movement"},
+    "Settam-e-Melli": {"primaryname": "Settam-e-Melli"},
+    "KGB": {"primaryname": "KGB"},
+    "Brookings Institution": {"primaryname": "Brookings Institution"},
+    "United States National Security Council": {"primaryname": "United States National Security Council"},
+    "United States Department of Defense": {
+        "primaryname": "United States Department of Defense",
+        "altname1": "Pentagon"
+    },
+    "United States Senate": {
+        "primaryname": "United States Senate",
+        "altname1": "senate"
+    },
+    "Alpha Group": {"primaryname": "Alpha Group"},
+    "Radio Kabul": {"primaryname": "Radio Kabul"},
+    "Politburo": {"primaryname": "Politburo"},
+    "103rd Guards Airborne Division": {"primaryname": "103rd Guards Airborne Division"},
+    "KHAD": {"primaryname": "KHAD"},
+    "Sarandoy": {"primaryname": "Sarandoy"},
+    "US Department of State": {"primaryname": "US Department of State"},
+    "United Nations Good Offices Mission in Afghanistan and Pakistan": {"primaryname": "United Nations Good Offices Mission in Afghanistan and Pakistan"},
+    "MI6": {"primaryname": "MI6"},
+    "Special Service Group": {"primaryname": "Special Service Group"},
+    "People's Liberation Army": {"primaryname": "People's Liberation Army"},
+    "MVD": {"primaryname": "MVD"},
+    "Internal Troops": {"primaryname": "Internal Troops"},
+    "International Committee of the Red Cross": {"primaryname": "International Committee of the Red Cross"},
+    "Sipah-e-Sahaba Pakistan": {"primaryname": "Sipah-e-Sahaba Pakistan"},
+    "Muslim Brotherhood": {"primaryname": "Muslim Brotherhood"},
+    "Duma": {"primaryname": "Duma"},
+    "Watan Party of Afghanistan": {"primaryname": "Watan Party of Afghanistan"},
+    "Democratic Youth Organization of Afghanistan": {"primaryname": "Democratic Youth Organization of Afghanistan"},
+    "Democratic People's Party of Afghanistan": {"primaryname": "Democratic People's Party of Afghanistan"},
+    "Socialist Party of Afghanistan": {"primaryname": "Socialist Party of Afghanistan"},
+    "Grohi Kar": {"primaryname": "Grohi Kar"},
+    "Spetsnaz": {"primaryname": "Spetsnaz"},
+    "Kabul Polytechnic Institute": {"primaryname": "Kabul Polytechnic Institute"}
+}
